@@ -1,0 +1,4 @@
+
+apscheduler
+pyTelegramBotAPI
+spbuTimetableAPI>=1.0.1
